@@ -1,0 +1,14 @@
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\bin\Debug\net8.0\HelloConsoleApp.exe
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\bin\Debug\net8.0\HelloConsoleApp.deps.json
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\bin\Debug\net8.0\HelloConsoleApp.runtimeconfig.json
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\bin\Debug\net8.0\HelloConsoleApp.dll
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\bin\Debug\net8.0\HelloConsoleApp.pdb
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\HelloConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\HelloConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\HelloConsoleApp.AssemblyInfo.cs
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\HelloConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\HelloConsoleApp.dll
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\refint\HelloConsoleApp.dll
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\HelloConsoleApp.pdb
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\HelloConsoleApp.genruntimeconfig.cache
+C:\Users\tojdk\source\repos\HelloConsoleApp\HelloConsoleApp\obj\Debug\net8.0\ref\HelloConsoleApp.dll

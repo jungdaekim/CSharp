@@ -1,0 +1,16 @@
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\bin\Debug\net8.0-windows\EventsDelagatesDemo.exe
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\bin\Debug\net8.0-windows\EventsDelagatesDemo.deps.json
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\bin\Debug\net8.0-windows\EventsDelagatesDemo.runtimeconfig.json
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\bin\Debug\net8.0-windows\EventsDelagatesDemo.dll
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\bin\Debug\net8.0-windows\EventsDelagatesDemo.pdb
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.Form1.resources
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.csproj.GenerateResource.cache
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.AssemblyInfoInputs.cache
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.AssemblyInfo.cs
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.dll
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\refint\EventsDelagatesDemo.dll
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.pdb
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\EventsDelagatesDemo.genruntimeconfig.cache
+C:\Users\tojdk\source\repos\EventsDelagatesDemo\EventsDelagatesDemo\obj\Debug\net8.0-windows\ref\EventsDelagatesDemo.dll
